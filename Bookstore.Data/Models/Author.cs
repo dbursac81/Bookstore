@@ -1,9 +1,7 @@
-﻿
-
-using Bookstore.Domain.Entities.Base;
+﻿using Bookstore.Data.Models.Base;
 using System.ComponentModel.DataAnnotations;
 
-namespace Bookstore.Domain.Entities;
+namespace Bookstore.Data.Models;
 
 public class Author : BaseEntity
 {

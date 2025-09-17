@@ -3,7 +3,6 @@ using Bookstore.Application.Dtos;
 using Bookstore.Application.Interfaces;
 using Bookstore.Application.VMs;
 using Bookstore.Data.Context;
-using Bookstore.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Bookstore.Application.Services;

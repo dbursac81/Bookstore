@@ -1,10 +1,10 @@
 ﻿using Bookstore.Data.Context;
-using Bookstore.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Bookstore.Test.Mocks;
+using Bookstore.Data.Models;
 
 namespace Bookstore.Application.Services;
 

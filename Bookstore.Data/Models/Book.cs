@@ -1,10 +1,8 @@
-﻿
-
-using Bookstore.Domain.Entities.Base;
+﻿using Bookstore.Data.Models.Base;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 
-namespace Bookstore.Domain.Entities;
+namespace Bookstore.Data.Models;
 
 public class Book : BaseEntity
 {

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Bookstore.Application.Dtos;
 using Bookstore.Application.VMs;
-using Bookstore.Domain.Entities;
+using Bookstore.Data.Models;
 
 namespace Bookstore.Application.Profiles;
 

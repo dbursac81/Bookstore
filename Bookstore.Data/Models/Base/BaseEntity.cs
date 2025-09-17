@@ -1,8 +1,6 @@
-﻿
+﻿using Bookstore.Data.Interfaces;
 
-using Bookstore.Data.Interfaces;
-
-namespace Bookstore.Domain.Entities.Base;
+namespace Bookstore.Data.Models.Base;
 
 public class BaseEntity : IEntity, ICreated, IModifiable, IDeletable
 {
